@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavy Garg</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/bhavy__garg" target="blank"><img src="https://img.shields.io/twitter/follow/bhavy__garg?logo=twitter&style=for-the-badge" alt="bhavy_garg" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhavy_garg" target="blank"><img src="https://img.shields.io/twitter/follow/bhavy__garg?logo=twitter&style=for-the-badge" alt="bhavy_garg" /></a> </p>
 
 - 🔭 I’m currently working on **Face Detection Mask**
 
